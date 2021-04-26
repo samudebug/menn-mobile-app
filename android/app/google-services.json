@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "202949923182",
+    "project_id": "simple-menn-app",
+    "storage_bucket": "simple-menn-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202949923182:android:e04ec0639cb3fdbf81f17f",
+        "android_client_info": {
+          "package_name": "com.mennmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202949923182-9l9902d55sg0a850ulq5tqlnk6ahlbk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mennmobileapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "202949923182-4iqhki1eotrl46u228l3cgdhrrv8geel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0hlyKNx7sBCEdwNYbZDMrobFKjr3n_bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202949923182-4iqhki1eotrl46u228l3cgdhrrv8geel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
